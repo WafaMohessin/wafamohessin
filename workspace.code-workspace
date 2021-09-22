@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"name": "classPractice",
+			"path": "../classPractice"
+		},
+		{
+			"name": "msu-det-fsf-pt-07-2021-u-c",
+			"path": "../msu-det-fsf-pt-07-2021-u-c"
+		},
+		{
+			"name": "password-generator-august13",
+			"path": "../password-generator-august13"
+		},
+		{
+			"name": "project-app-one",
+			"path": "../project-app-one"
+		},
+		{
+			"name": "timed-coding-quiz",
+			"path": "../CodeHomework/timed-coding-quiz"
+		},
+		{
+			"name": "test-monday",
+			"path": "../test-monday"
+		},
+		{
+			"name": "health4u",
+			"path": "../health4u"
+		},
+		{
+			"path": "../test-project"
+		},
+		{
+			"path": "../AdvancedCSShomework"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "test"
+	}
+}
